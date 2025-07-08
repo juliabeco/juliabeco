@@ -29,7 +29,10 @@
 - 🎓 Background en nutrición y ciencias de la salud
 
 ---
-
+### ⏲️ Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+---
 ### 📊 Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&theme=default)
@@ -52,6 +55,3 @@
 
 ---
 
-### ⏲️ Actividad Reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
