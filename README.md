@@ -31,6 +31,11 @@
 ---
 ### ⏲️ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
+2. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
+3. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
+4. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
+5. ⬆️ Pushed 1 commit(s) to [juliabeco/credit-company-sql](https://github.com/juliabeco/credit-company-sql)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 ### 📊 Lenguajes más usados
