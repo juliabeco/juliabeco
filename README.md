@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Julia Becaria Coquet
+# 😃 ¡Hola! Soy Julia Becaria Coquet
 
 🎯 **Data Analyst en transición 🤸‍♀️**, con una sólida base en estadística aplicada, comunicación y visualización de datos.  
 🚀 Actualmente estoy cursando el **Bootcamp de Data Analytics en Adalab** donde trabajo con Python, SQL, Power BI y otras herramientas para resolver problemas de negocio reales.
