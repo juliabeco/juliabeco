@@ -31,8 +31,8 @@
 ---
 ### ⏲️ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [MarPastor/da-project-promo-54-modulo-2-team-2](https://github.com/MarPastor/da-project-promo-54-modulo-2-team-2)<br>
-2. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
+1. ⬆️ Pushed 1 commit(s) to [MarPastor/da-project-promo-54-modulo-2-team-2](https://github.com/MarPastor/da-project-promo-54-modulo-2-team-2)<br>
+2. 🤝 Became collaborator on [MarPastor/da-project-promo-54-modulo-2-team-2](https://github.com/MarPastor/da-project-promo-54-modulo-2-team-2)<br>
 3. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
 4. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
 5. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-2-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliabeco)<br>
