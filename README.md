@@ -33,7 +33,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [juliabeco/classic_games_python](https://github.com/juliabeco/classic_games_python)<br>
 2. ⬆️ Pushed 1 commit(s) to [juliabeco/classic_games_python](https://github.com/juliabeco/classic_games_python)<br>
-3. 📔 Created new repository [juliabeco/classic_games_python](https://github.com/juliabeco/classic_games_python)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 ### 📊 Lenguajes más usados
