@@ -31,6 +31,9 @@
 ---
 ### ⏲️ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-3-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-3-evaluacion-final-juliabeco)<br>
+2. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-3-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-3-evaluacion-final-juliabeco)<br>
+3. ⬆️ Pushed 1 commit(s) to [Adalab/bda-modulo-3-evaluacion-final-juliabeco](https://github.com/Adalab/bda-modulo-3-evaluacion-final-juliabeco)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 ### 📊 Lenguajes más usados
