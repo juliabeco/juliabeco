@@ -1,39 +1,40 @@
 
-# 😁 ¡Hola! Soy Julia Becaria Coquet
+# 😁 Hi there! I'm Julia Becaria Coquet
 
-🎯 **Data Analyst en transición 🤸‍♀️**, con una sólida base en estadística aplicada, comunicación y visualización de datos.  
-🚀 Actualmente estoy cursando el **Bootcamp de Data Analytics en Adalab** donde trabajo con Python, SQL, Power BI y otras herramientas para resolver problemas de negocio reales.
+🎯 **Data Analyst with a Ph.D. in Applied Statistics** and over 10 years of experience transforming complex data into actionable insights.  
+🚀 Recently completed the **Data Analytics Bootcamp at Adalab**, where I enhanced my technical skills in Python, SQL, and Power BI by solving real-world business problems.  
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tools & Technologies
 
 - 📊 Python · SQL · Power BI · Excel · Tableau  
-- 📈 Data visualization · Data wrangling · Reporting  
+- 📈 Data Visualization · Data Wrangling · Reporting  
 - 🌐 Git · GitHub · Jupyter · Pandas · NumPy  
-- 🗣️ Comunicación clara y pensamiento analítico  
-- 🌍 Español / English
+- 🗣️ Clear Communication & Analytical Thinking  
+- 🌍 Spanish / English
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia%20Becaria%20Coquet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-becaria-coquet/)
 
 ---
 
-### ⚡ Fun facts
+### ⚡ Fun Facts
 
-- 🧘‍♀️ Instructora de yoga
-- 🥑 Vegana y comprometida con el cuidado del medio ambiente
-- 🎓 Background en nutrición y ciencias de la salud
+- 🧘‍♀️ Certified Yoga Instructor  
+- 🥑 Vegan and passionate about sustainability  
+- 🎓 Background in Nutrition and Health Sciences
 
 ---
-### ⏲️ Actividad Reciente
+### ⏲️ Recent activity
+
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 ---
-### 📊 Lenguajes más usados
+### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&theme=default)
 
