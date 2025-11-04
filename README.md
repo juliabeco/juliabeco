@@ -18,7 +18,8 @@
 
 ⚙️ Data Governance & Automation:Knowledge of data quality, reproducibility, and automation of reports and transformations with Python/SQL.
 
-💬 Languages & Communication:Strong analytical communication skills; fluent in Spanish and English.
+💬 Languages & Communication: Strong analytical communication skills; fluent in Spanish and English.
+
 ---
 
 ### 📫 Contact
