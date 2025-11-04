@@ -2,7 +2,7 @@
 # 😁 Hi there! I'm Julia Becaria Coquet
 
 🎯 **Data Analyst with a Ph.D. in Health Sciences, specialized in Applied Statistics** and over 10 years of experience transforming complex data into actionable insights.  
-🚀 Recently completed the **Data Analytics Bootcamp at Adalab**, where I enhanced my technical skills in Python, SQL, and Power BI by solving real-world business problems.  
+🚀 Committed to continuous learning and upskilling, regularly applying and expanding my expertise in modern data tools such as Python, SQL, and Power BI to complex analytical projects. 
 
 ---
 
