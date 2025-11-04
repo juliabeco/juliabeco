@@ -6,14 +6,19 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+🔧 Tools & Technologies 
 
-- 📊 Python · SQL · Power BI · Excel · Tableau  
-- 📈 Data Visualization · Data Wrangling · Reporting  
-- 🌐 Git · GitHub · Jupyter · Pandas · NumPy  
-- 🗣️ Clear Communication & Analytical Thinking  
-- 🌍 Spanish / English
+🐍 Programming & Data Engineering:Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) and SQL for ETL, data analysis, and automation workflows.
 
+📊 Data Visualization & BI:Skilled in Power BI, Tableau, and Excel for dashboard design, KPI tracking, and data storytelling.
+
+📈 Statistical & ML Methods:Experienced in applied statistics, regression models, and predictive analytics using Python’s scientific stack.
+
+🤝 Collaboration & Version Control:Daily use of Git, GitHub, Jupyter, and Google Colab for versioning, documentation, and teamwork.
+
+⚙️ Data Governance & Automation:Knowledge of data quality, reproducibility, and automation of reports and transformations with Python/SQL.
+
+💬 Languages & Communication:Strong analytical communication skills; fluent in Spanish and English.
 ---
 
 ### 📫 Contact
