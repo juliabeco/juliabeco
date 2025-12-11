@@ -38,11 +38,6 @@
 ### ⏲️ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [juliabeco/Tractchun-Tickets-Dashboard](https://github.com/juliabeco/Tractchun-Tickets-Dashboard)<br>
-2. ⬆️ Pushed undefined commit(s) to [juliabeco/Tractchun-Tickets-Dashboard](https://github.com/juliabeco/Tractchun-Tickets-Dashboard)<br>
-3. ⬆️ Pushed undefined commit(s) to [juliabeco/Tractchun-Tickets-Dashboard](https://github.com/juliabeco/Tractchun-Tickets-Dashboard)<br>
-4. ⬆️ Pushed undefined commit(s) to [juliabeco/Tractchun-Tickets-Dashboard](https://github.com/juliabeco/Tractchun-Tickets-Dashboard)<br>
-5. ⬆️ Pushed undefined commit(s) to [juliabeco/Tractchun-Tickets-Dashboard](https://github.com/juliabeco/Tractchun-Tickets-Dashboard)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 ### 📊 Most Used Languages
