@@ -38,6 +38,8 @@
 ### ⏲️ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [juliabeco/Google-Ads-PowerBI](https://github.com/juliabeco/Google-Ads-PowerBI)<br>
+2. ⬆️ Pushed undefined commit(s) to [juliabeco/Google-Ads-PowerBI](https://github.com/juliabeco/Google-Ads-PowerBI)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 ### 📊 Most Used Languages
