@@ -45,17 +45,15 @@
 5. ⬆️ Pushed undefined commit(s) to [juliabeco/Pubmed_analysis](https://github.com/juliabeco/Pubmed_analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliabeco&show_icons=true&hide_border=true)
-
-
 <!--
-### 📊 GitHub Stats (oculto por ahora)
 
-![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliabeco&show_icons=true&theme=default&hide_title=true)
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=juliabeco&show_icons=true&hide_border=true&cache_seconds=1800" />
+
+### 🧠 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&hide_border=true&cache_seconds=1800" />
 -->
 ---
 
@@ -106,4 +104,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
