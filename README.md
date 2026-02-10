@@ -36,7 +36,10 @@
 ---
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeco&layout=compact&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliabeco&show_icons=true&hide_border=true)
+
 
 <!--
 ### 📊 GitHub Stats (oculto por ahora)
