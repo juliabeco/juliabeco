@@ -38,11 +38,11 @@
 ### ⏲️ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [juliabeco/juliabeco](https://github.com/juliabeco/juliabeco)<br>
+1. ⭐ Starred [malbiruk/PubMedSummarizer](https://github.com/malbiruk/PubMedSummarizer)<br>
 2. ⬆️ Pushed undefined commit(s) to [juliabeco/juliabeco](https://github.com/juliabeco/juliabeco)<br>
 3. ⬆️ Pushed undefined commit(s) to [juliabeco/juliabeco](https://github.com/juliabeco/juliabeco)<br>
-4. ⭐ Starred [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)<br>
-5. ⬆️ Pushed undefined commit(s) to [juliabeco/Pubmed_analysis](https://github.com/juliabeco/Pubmed_analysis)<br>
+4. ⬆️ Pushed undefined commit(s) to [juliabeco/juliabeco](https://github.com/juliabeco/juliabeco)<br>
+5. ⭐ Starred [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 <!--
