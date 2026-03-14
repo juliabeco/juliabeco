@@ -39,7 +39,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [malbiruk/PubMedSummarizer](https://github.com/malbiruk/PubMedSummarizer)<br>
-2. ⬆️ Pushed undefined commit(s) to [juliabeco/juliabeco](https://github.com/juliabeco/juliabeco)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 <!--
