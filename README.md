@@ -39,7 +39,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [juliabeco/Pubmed_analysis](https://github.com/juliabeco/Pubmed_analysis)<br>
-2. ⭐ Starred [malbiruk/PubMedSummarizer](https://github.com/malbiruk/PubMedSummarizer)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 <!--
