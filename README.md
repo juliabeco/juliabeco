@@ -38,7 +38,9 @@
 ### ⏲️ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [juliabeco/Pubmed_analysis](https://github.com/juliabeco/Pubmed_analysis)<br>
+1. ⬆️ Pushed undefined commit(s) to [16IMA/Consumer-Affinity-Research-AWS](https://github.com/16IMA/Consumer-Affinity-Research-AWS)<br>
+2. 🤝 Became collaborator on [16IMA/Consumer-Affinity-Research-AWS](https://github.com/16IMA/Consumer-Affinity-Research-AWS)<br>
+3. ⭐ Starred [juliabeco/Pubmed_analysis](https://github.com/juliabeco/Pubmed_analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 <!--
